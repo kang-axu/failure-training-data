@@ -188,7 +188,7 @@ A single failure does not justify a permanent production rule.
 
 ---
 
-## Scope and Prior Art
+## Scope, Prior Art, and Rights
 
 The words **"failure training data"** existed before this project and have been used in other technical contexts, including machine learning and failure-related prediction or analysis.
 
@@ -210,7 +210,11 @@ Within this specification, experience rules are tracked through:
 
 FTD v0.1 is an experimental specification derived from real operational failures.
 
-We make no claim that every underlying idea is unprecedented.
+These acknowledgements do not waive any rights that may lawfully exist in the original materials, documentation, case materials, software, datasets, brand identifiers, commercial implementations, or other protectable work developed through this project.
+
+No separate open-source or content license has been granted unless one is explicitly added in writing.
+
+For the full scope and rights statement, see **FTD-SPEC.md**.
 
 Instead, we intend to document clearly:
 
