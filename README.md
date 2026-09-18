@@ -158,7 +158,7 @@ Validated experience should be able to survive them.
 
 Our first FTD case comes from a real AI-assisted media production failure:
 
-**CASE-001 — Hypit V3**
+[**CASE-001 — Hypit V3**](cases/CASE-001-HYPIT-V3.md)
 
 Hypit V3 reached technical completion as a finished video.
 
