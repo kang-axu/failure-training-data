@@ -241,7 +241,7 @@ The relationship is simple:
 
 ITE is the outward transformation mechanism; FTD is the inward learning mechanism that converts failure, human correction, and validation into improved future behavior.
 
-See: [**Industry Transformation Engine v0.1**](docs/INDUSTRY-TRANSFORMATION-ENGINE.md)
+See: [**Industry Transformation Engine v0.1**](https://github.com/kang-axu/industry-transformation-engine)
 
 ---
 
