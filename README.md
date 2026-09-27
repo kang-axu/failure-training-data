@@ -227,6 +227,24 @@ Instead, we intend to document clearly:
 
 ---
 
+## Related Concept: Industry Transformation Engine (ITE)
+
+FTD is being developed alongside a broader working concept called the **Industry Transformation Engine (ITE / 行业改造引擎)**.
+
+ITE addresses a different question:
+
+> **How can a human-AI organization repeatedly enter real industries, learn how they actually work, redesign workflows around new general-purpose technology, validate the redesign in reality, and retain reusable organizational capability?**
+
+The relationship is simple:
+
+> **ITE expands. FTD learns.**
+
+ITE is the outward transformation mechanism; FTD is the inward learning mechanism that converts failure, human correction, and validation into improved future behavior.
+
+See: [**Industry Transformation Engine v0.1**](docs/INDUSTRY-TRANSFORMATION-ENGINE.md)
+
+---
+
 ## Origin
 
 This project began in **China in 2026**.
